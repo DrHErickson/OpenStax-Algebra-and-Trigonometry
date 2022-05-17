@@ -7,4 +7,4 @@ As a result of an [Affordable Learning Georgia](https://www.affordablelearningge
 We used the low-cost homework system [Edfinity](edfinity.com). Edfinity courses are mapped to specific OER textbooks, and all problems are algorithmic and coded in an open-source problem format. The link to Edfinity's OpenStax Algebra and Trigonometry course is [here](https://edfinity.com/products/5d7281469184305031d25d1a).
 
 ### Note
-Please send any errata or corretions to [Amy H Erickson](mailto:aerickso@ggc.edu). For instructor answer keys email [Keith Erickson](mailto:kerickso@gg.edu).
+Please send any errata or corrections to [Amy H Erickson](mailto:aerickso@ggc.edu). For instructor answer keys email [Keith Erickson](mailto:kerickso@gg.edu).
